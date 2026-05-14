@@ -46,3 +46,8 @@ The app will be available at http://localhost:1234.
 ```shell
 npm run build
 ```
+
+## 🧠Core Concepts Learned
+- MVC Architecture: Decoupling the business logic (Model) from the UI (View) using a Controller.
+- Publisher-Subscriber Pattern: Implementing a clean way for the View to communicate with the Controller without direct dependencies.
+- Local Storage: Persisting user data (bookmarks) locally in the browser.
